@@ -1,6 +1,7 @@
 # ecobot-ukraine                  
 its bot for save world        
 this project for school project XD
+
 go mod init ecobot                    
 go get modernc.org/sqlite                                    
 go get github.com/go-telegram-bot-api/telegram-bot-api/v5                                 
